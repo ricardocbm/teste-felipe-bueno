@@ -1,0 +1,85 @@
+#tabela_ListaDePedidos {
+    border-collapse: collapse;
+    margin: 4px 10px;
+    width: 98.5%;
+}
+
+#tabela_ListaDePedidos caption{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 110px;
+    margin-left: 1rem;
+}
+
+#tabela_ListaDePedidos th {
+    background-color: #56d3da;
+}
+
+#tabela_ListaDePedidos th, td {
+    border: 1px solid rgb(100, 98, 98);
+    padding: 8px;
+    text-align: center;
+}
+
+#tabela_ListaDePedidos tbody td:nth-child(1) {
+    cursor: pointer;
+}
+
+
+#tabela_InformacoesDoPedido {
+    border-collapse: collapse;
+    margin: 4px 10px;
+    width: 98.5%;    
+}
+
+#tabela_InformacoesDoPedido caption{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 1rem;
+}
+
+#cabecalho1_TabelaInformacoesDoPedido {
+    border: 1px solid rgb(100, 98, 98);
+    background-color: #56d3da;
+    text-align: left;
+    padding: 8px;
+}
+  
+#tabela_InformacoesDoPedido td {
+    border: 1px solid rgb(100, 98, 98);
+    text-align: left;
+    padding: 8px;    
+}
+
+#tabela_ItensDoPedido {
+    border-collapse: collapse;
+    margin: 4px 10px;
+    width: 98.5%;
+}
+
+#tabela_ItensDoPedido caption{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 1rem;    
+}
+
+#tabela_ItensDoPedido th{
+    background-color: #56d3da;
+}
+
+#tabela_ItensDoPedido th, td {
+    border: 1px solid rgb(100, 98, 98);
+    padding: 8px;
+    text-align: center;
+}
+
+
+  
